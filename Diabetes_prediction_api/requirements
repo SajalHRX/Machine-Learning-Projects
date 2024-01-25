@@ -1,0 +1,10 @@
+Libraries you required:
+	fastapi
+	uvicorn
+	pydantic
+	json
+	pickle5
+	scikit-learn
+	requests
+	pandas
+	
