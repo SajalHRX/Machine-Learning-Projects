@@ -1,0 +1,9 @@
+Hi guys! This model is Diabetes prediction model work as local host api
+To run this 
+  Go to trained_model> ml_api.py
+  open it and run it on terminal
+  write the makesure that directory of your trained model should be proper mentioned in ml_api.py file
+  ** Write command **
+    uvicorn ml_api:app
+
+Then you can copy local url link from terminal and test on test.py file by giving json input
